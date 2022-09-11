@@ -10,6 +10,7 @@ body:
       - Pinned issues, on the very top of https://github.com/MyDemonList/mdl-issue-tracker/issues.
       - Current open `priority:0` issues, filterable here.
       - Search for your issue in the issue listing. if you find that it already exists, respond with a reaction or add any further information that may be helpful.
+  
   - type: dropdown
     attributes:
       label: Page
